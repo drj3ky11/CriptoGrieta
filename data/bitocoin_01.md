@@ -16,3 +16,23 @@ Aspectos Clave de Bitcoin:
 
 ## Fundamentos
 
+### ¿Que es Bitcoin?
+
+La forma más simple de explicarlo es decir que es un programa de ordenador, que te puedes descargar [aquí](https://bitcoin.org/en/download)
+
+Si te descargases el programa y lo ejecutases, lo que pasaría es que tu ordenador se conectaría con otros ordenadores que ejecutan el mismo programa, y compartirían un fichero con una lista enorme de transacciones, esto es la blockchain.
+
+![Red de bitcoin](/images/1_2_network.png)
+*[Fuente Imagen](https://learnmeabitcoin.com/)*
+
+Básicamente, cuando una transacción se inserta en la red, se difunde entre todos los ordenadores de la red hasta que uno de ellos (nodo) la inserta en la blockchain y comparte la actualización con el resto. Esta inserción en en la blockchain se denomina **minar**. 
+
+Llegados a este punto, te habrás dado cuenta, de que bitcoin proporciona un modelo de pago descentralizado. No hay una entidad central que gobierne la red, es un consenso de red. Y esto evita uno de los problemas mayores a los que se podría enfrentar la red, a un doble gasto. Esto sería incluir una transacción falsa, pero en resumen, el consenso hace que *mentir* de esa forma salga tan caro y sea tan costoso que la red no lo permite. Puedes leer más sobre esto [aquí](https://river.com/learn/how-bitcoin-solves-the-double-spend-problem/)
+
+
+El minado, no deja de ser una operación aritmética bastante similar al cálculo de un [hash](https://learnmeabitcoin.com/technical/cryptography/hash-function/) y mediante el minado se consiguen recompensas, en bitcoin. Este es el incentivo que tiene la red para minar, es decir, para mantener todo en marcha. Hemos simplificado mucho esta parte, en verdad hay por medio una técnica denominada "[Proof of work](https://academy.bit2me.com/que-es-proof-of-work-pow/)" que viene a resolver uno de los mayores problemas, la confianza. Es interesante leer el dilema de los [generales bizantinos](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) para entender el origen de esto, [en este artículo](https://academy.binance.com/es/articles/byzantine-fault-tolerance-explained) lo detallan.
+
+> **Resumen**: bitcoin es un software, que se ejecuta en una red distribuida, que permite un mecanismo de consenso por el cuál todas las partes están de acuerdo en las transacciones que se incluyen en el "libro de cuentas". Para ello existen unas figuras que se denominan "miners" que son los encargados de escribir la blockchain, y que reciben recompensas por ello en forma de bitcoin.
+
+
+
