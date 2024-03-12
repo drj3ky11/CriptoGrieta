@@ -10,4 +10,9 @@ Desgranando lo anterior, se puede afirmar que la cadena de bloques no deja de se
 
 ## Historia
 
-La primera cadena de bloques exitosa, y más famosa, fue la de Bitcoin; que nace en noviembre de 2008 creada por un supuesto *Satoshi Nakamoto*. Puedes encontrar el white paper de bitcoin [aquí](/CriptoGrieta\resources\bitcoinwhitepaper.pdf)
+La primera cadena de bloques exitosa, y más famosa, fue la de Bitcoin; que nace en noviembre de 2008 creada por un supuesto *Satoshi Nakamoto*. Puedes encontrar el white paper de bitcoin [aquí](/resources/bitcoinwhitepaper.pdf) que comienza el el documento tal que así:
+
+> A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work.
+
+En 2013 Vitalik Buterin, programador ruso-canadiense, probó a implantar algo de programación en Bitcoin; pero viendo que era imposible terminó en el 2014 por presentar Ethereum con el conocido [ethereum yellow paper](/resources/ethyellowpaper.pdf)
+
