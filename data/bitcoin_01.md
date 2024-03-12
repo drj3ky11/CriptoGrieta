@@ -34,5 +34,14 @@ El minado, no deja de ser una operación aritmética bastante similar al cálcul
 
 > **Resumen**: bitcoin es un software, que se ejecuta en una red distribuida, que permite un mecanismo de consenso por el cuál todas las partes están de acuerdo en las transacciones que se incluyen en el "libro de cuentas". Para ello existen unas figuras que se denominan "miners" que son los encargados de escribir la blockchain, y que reciben recompensas por ello en forma de bitcoin.
 
+## Algunos componentes
+
+Aunque aún no se han explicado algunos conceptos en detalle, seguramente los ejemplos que presentamos a continuación sean familiares para el lector, sin saber del todo que significan:
+
+Una dirección pública (wallet address) puede ser algo así: 169EcbWYvkao99Uy9AdqUtVhori3pS9Pih
+Un hash de una transacción puede parecerse a esto:  76151be37920f19d08cefaa0464a9ad6c18e869460811bd33da7a745ced7181e 
+Una frase semilla puede ser algo parecido a: master resist draft spray pill pelican scissors donkey devote release mask produce
+
+
 [**SIGUIENTE**](/data/bitcoin_02.md)
 

@@ -12,7 +12,7 @@ Imaginemos la blockchain como un almacén de cajas cerradas con llave, estas caj
 
 En el proceso de una transacción, se desbloquea uno de estos outputs, y se bloquea una nueva *caja* de forma que solo el destinatario puede abrirla. Si, esto suena raro, y difícil, pero no lo es tanto. Imaginemos que quiero enviar 20btc. Primeramente tomare un Output que tenga tal cantidad, dentro de los que tengo disponibles y lo *abriré*. Pero no quiero enviar los 20, solo 5btc; entonces se crearán dos outputs nuevos, dos nuevas cajas, una contendrá 10btc, y estará cerrada (solo yo la puedo abrir) y la otra contendrá 5btc y estará cerrada para todos, salvo para el destinatario.
 
-![Transaccion](/images/outpu2.png)
+![Transacción](/images/outpu2.png)
 
 ## Si hay cajas cerradas tendrá que haber llaves...
 
@@ -50,3 +50,4 @@ Seguramente, te suene también que existe un conjunto de palabras, denominadas c
 ![Llaves y semilla](/images/beginners-wallets-seed-addresses.png)
 [Fuente](https://learnmeabitcoin.com/beginners/wallets/)
 
+[**SIGUIENTE**](/data/bitcoin_03.md)
