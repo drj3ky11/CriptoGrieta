@@ -34,5 +34,5 @@ El minado, no deja de ser una operación aritmética bastante similar al cálcul
 
 > **Resumen**: bitcoin es un software, que se ejecuta en una red distribuida, que permite un mecanismo de consenso por el cuál todas las partes están de acuerdo en las transacciones que se incluyen en el "libro de cuentas". Para ello existen unas figuras que se denominan "miners" que son los encargados de escribir la blockchain, y que reciben recompensas por ello en forma de bitcoin.
 
-
+[**SIGUIENTE**](/data/bitcoin_02.md)
 

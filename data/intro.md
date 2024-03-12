@@ -33,3 +33,5 @@ Desde entonces, la blockchain ha evolucionado rápidamente, dando lugar a una mu
 **Polkadot (DOT)**: Polkadot es una plataforma de interoperabilidad que conecta múltiples blockchains especializadas en una red unificada. Su objetivo es permitir que diferentes blockchains transfieran mensajes y valor entre sí de manera eficiente.
 
 **Avalanche (AVAX)**: Avalanche es una plataforma blockchain de consenso de alto rendimiento que busca combinar la escalabilidad de las redes centralizadas con la seguridad y la resistencia a la censura de las blockchains descentralizadas.
+
+[**SIGUIENTE**](/data/bitcoin_01.md)
