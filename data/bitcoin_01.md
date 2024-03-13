@@ -34,6 +34,8 @@ El minado, no deja de ser una operación aritmética bastante similar al cálcul
 
 > **Resumen**: bitcoin es un software, que se ejecuta en una red distribuida, que permite un mecanismo de consenso por el cuál todas las partes están de acuerdo en las transacciones que se incluyen en el "libro de cuentas". Para ello existen unas figuras que se denominan "miners" que son los encargados de escribir la blockchain, y que reciben recompensas por ello en forma de bitcoin.
 
+Es muy importante esta aproximación al concepto de Bitcoin: software. Porque ello quiere decir que es un nuevo empleo de bases tecnológicas ya existentes. Las bases de bitcoin, hablando mal y pronto siguen siendo ceros y unos. Y comprender todo ello no es más complejo que comprender el mecanismo de cualquier otro programa. Para el lector que no tenga un perfil tecnológico, esta afirmación puede que no haga más que aumentar su miedo; pero con paciencia, se pueden llegar a comprender los conceptos básicos que permitan una idea generalista de la tecnología subyacente en bitcoin.
+
 ## Algunos componentes
 
 Aunque aún no se han explicado algunos conceptos en detalle, seguramente los ejemplos que presentamos a continuación sean familiares para el lector, sin saber del todo que significan:

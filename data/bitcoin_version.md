@@ -3,11 +3,11 @@ La versión no es algo que suela preocupar al usuario medio de bitcoin, pero si 
 
 0x00000001 = The original software Height Activated: 0
 
-0x00000002 = [BIP 34](https://github.com/bitcoin/bips/blob/master/bip-0034.mediawiki): Altura en Coinbase. Altura Activada: 227,931
+0x00000002 = [BIP 34](https://github.com/bitcoin/bips/blob/master/bip-0034.mediawiki):  Coinbase
 
-0x00000003 = [BIP 66](https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki): firmas Strict DER. Altura Activada: 363,725
+0x00000003 = [BIP 66](https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki): firmas Strict DER
 
-0x00000004 = [BIP 65](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki): OP_CHECKLOCKTIMEVERIFY Height Activated: 388,381
+0x00000004 = [BIP 65](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki): OP_CHECKLOCKTIMEVERIFY
 
 Las actualizaciones, se hacen permanentes entre los 950 y 1000 bloques siguientes minados con la versión nueva.
 

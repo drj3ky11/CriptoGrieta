@@ -109,3 +109,9 @@ Ahora, iremos desgranando lo que significa cada parte, es aquí cuando el itiner
 [**Versión**](/data/bitcoin_version.md) en nuestro ejemplo corresponde a `02000000`, son 4 bytes en Little-Endian. Representa el número de la versión empleada en la transacción. Las versiones 1 se ven desde el 2009, y las versiones 2 [BIP 68](https://github.com/bitcoin/bips/blob/master/bip-0068.mediawiki) desde el 2015. La V2 introduce el [RLT]() o tiempo de bloqueo relativo; el RLT permite especificar una cantidad de tiempo o número de bloques desde que se extrajo un output antes de que una transacción que lo gaste sea válida.
 
 
+**Marker y flag** ocupan 2 bytes y sirven para indicar si la transacción es [Segregated Witness](/data/SegregatedWitness.md) o SegWit. Únicamente son necesarios para aquellos outputs cifrados con P2WPKH, P2WSH o P2TR. Todo ello lo veremos más adelante en la parte [Script](/data/scriptbtc.md).
+
+El Marker es el primer byte, para indicar SegWit se pondrá en 00.
+
+La flag, es el siguiente byte, y en el caso de SegWit irá a 01.
+

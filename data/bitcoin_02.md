@@ -50,4 +50,7 @@ Seguramente, te suene también que existe un conjunto de palabras, denominadas c
 ![Llaves y semilla](/images/beginners-wallets-seed-addresses.png)
 [Fuente](https://learnmeabitcoin.com/beginners/wallets/)
 
+Una aproximación, para comprender el funcionamiento, podría ser el compararlo a la banca digital. De esta forma, la contraseña de la aplicación de banca móvil sería la semilla, y para aprobar una transacción emplearíamos el código de 2FA que suele dar el banco (clave privada). El iban en el que se reciben fondos sería la dirección de bitcoin. Este ejemplo no es el más adecuado, pero junta un poco todos los conceptos anteriores.
+
+
 [**SIGUIENTE**](/data/bitcoin_03.md)
