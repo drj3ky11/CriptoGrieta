@@ -104,3 +104,8 @@ Y una forma un poco más amigable de ver la cadena anterior es esta:
 }
 ```
 
+Ahora, iremos desgranando lo que significa cada parte, es aquí cuando el itinerario de este contenido se convierte en una auténtica madrigera... Lo recomendable es que vayas visitando cada enlace según necesites profundizar en ello. En los liks se cubren partes muy técnicas y en algunas ocasiones, para el lector no experimentado en las bases de informática puede ser un terreno bastante agreste... Pero con paciencia e interés todo se llega a entender.
+
+[**Versión**](/data/bitcoin_version.md) en nuestro ejemplo corresponde a `02000000`, son 4 bytes en Little-Endian. Representa el número de la versión empleada en la transacción. Las versiones 1 se ven desde el 2009, y las versiones 2 [BIP 68](https://github.com/bitcoin/bips/blob/master/bip-0068.mediawiki) desde el 2015. La V2 introduce el [RLT]() o tiempo de bloqueo relativo; el RLT permite especificar una cantidad de tiempo o número de bloques desde que se extrajo un output antes de que una transacción que lo gaste sea válida.
+
+
