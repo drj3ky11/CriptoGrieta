@@ -231,3 +231,5 @@ Más de 500000 = Hora Unix
 
 
 ¿Quieres más detalles al respecto? Consulta [Bitcoindeveloper](https://developer.bitcoin.org/devguide/transactions.html)
+
+[SIGUIENTE](/data/bitcoin_04.md)

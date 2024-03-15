@@ -14,7 +14,7 @@ Si quieres llevar un orden, aconsejamos que comiences por [aquí](/data/intro.md
 
 [Introducción a las blockchain](/data/intro.md)
 
-[Todo sobre Bitcoin](/data/bitcoin_01.md)
+[Itinerario sobre Bitcoin](/data/bitcoin_01.md)
 
 ### Fundamentos técnicos
 
@@ -28,7 +28,11 @@ Si quieres llevar un orden, aconsejamos que comiences por [aquí](/data/intro.md
 
 - [Scripts](/data/scriptbtc.md)
 
-- UTXO
+- [UTXO](/data/bitcoin_04.md)
+
+- [Nodos](/data/bitcoin_05.md)
+
+- [Coinbase transaction](/data/coinbasetx.md)
 
 - Forks
 
