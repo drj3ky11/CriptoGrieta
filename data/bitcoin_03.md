@@ -30,6 +30,8 @@ En resumen, las transacciones Bitcoin se componen de 2 listas:
         una "firma" que pruebe que el creador de la transacción está autorizado a gastar ese output
 
 
+![Transaccion](/images/bitcoin-transaction.jpg)
+
 ## Estructura
 
 Veamos un ejemplo de una transacción, tomemos el hash ` b460aefaca8026569b9d432fa20d6fca82514489479c25ce79b52593b5d76633`
