@@ -8,6 +8,8 @@ Las dos tareas principales del nodo es tener un copia de la blockchain y validar
 
 Correr un nodo permite además de proporcionar mayor privacidad y confianza, explotar los datos de la blockchain directamente con `bitcoin-cli`
 
+![addressinfo](/images/bitocoincore1.png)
+
 
 ## Mineros
 Son aquellos que toman transacciones de la pool de memoria y las insertan en la blockchain. Un nodo no tiene porqué minar, ni un minero tiene que correr un full nodo.
