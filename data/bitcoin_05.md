@@ -10,6 +10,7 @@ Correr un nodo permite además de proporcionar mayor privacidad y confianza, exp
 
 ![addressinfo](/images/bitocoincore1.png)
 
+Para obtener información de otras carteras, hay que editar el .con y poner txindex=1 y luego, ejecutando el cliente desde línea de comandos, hacerlo con la opción -reindex
 
 ## Mineros
 Son aquellos que toman transacciones de la pool de memoria y las insertan en la blockchain. Un nodo no tiene porqué minar, ni un minero tiene que correr un full nodo.
