@@ -22,4 +22,6 @@ La realidad no dista tanto del ejemplo del jefe y los minioms.
 
 ## Explicación técnica
 
+Secp256k1 es la curva que usa bitcoin.
+
 En construcción..........
