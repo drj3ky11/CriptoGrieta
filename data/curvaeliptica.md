@@ -10,7 +10,7 @@ El ECC se emplea en otras muchas cosas, por ejemplo TLS, PGP y SSH. Previo al EC
 
 Imaginemos un equipo, en el que los componentes del mismo solo saben multiplicar; son minioms que solo multiplican. El jefe del equipo es el único que sabe dividir y multiplicar, y les tiene explicado a los minioms que su número favorito es el 5.
 
-Un día, los minioms se encuentran un mensaje `Hoy no puedo ir a trabajar vuelvo mañana` y firmado `El jefe, 8`. Los minioms, para asegurarse que el mensaje es de su jefe, cuentan los caracteres del mensaje (40) y multiplican el número favorito del jeje (5) por el que consta en la firma (8); y al comprobar que 5x8=40 y que 40 son los caracteres tienen la seguridad de que lo ha escrito el jefe.
+Un día, los minioms se encuentran un mensaje `Hoy no puedo ir a trabajar vuelvo mañana` y firmado `El jefe, 8`. Los minioms, para asegurarse que el mensaje es de su jefe, cuentan los caracteres del mensaje (40) y multiplican el número favorito del jefe (5) por el que consta en la firma (8); y al comprobar que 5x8=40 y que 40 son los caracteres tienen la seguridad de que lo ha escrito el jefe.
 
 Pero además, como no saben dividir, no podrían modificar el mensaje de ninguna forma y firmar... Esto, más o menos, es parte del a criptografía de clave pública y la firma digital.
 
