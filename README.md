@@ -36,3 +36,6 @@ Si quieres llevar un orden, aconsejamos que comiences por [aquí](/data/intro.md
 
 - Forks
 
+## Otros
+
+[Aprender bitcoin desde la línea de comandos](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
