@@ -2,6 +2,8 @@
 
 **Bienvenido a la criptogrieta!**
 
+![en construcción](/images/portada.png)
+
 Este repositorio, grieta, o mejor aún, madriguera; pretende ser una recopilación de algo de conocimiento sobre blockchain en español. Comenzaremos por bitcoin, luego ethereum... y si tenemos ganas quizás ampliemos a alguna otra red. 
 
 La audiencia de este repo puede ser desde perfiles técnicos, que pretendan ahondar sobre conceptos muy concretos o sobre posibles implementaciones. Pero también hemos intentado redactar el contenido, de forma que parte de él, esté destinado a un público más generalista, que únicamente pretenda aproximarse a la blockchain de forma más conceptualmente abstracta. Es por ello, que a lo largo del repositorio, se intercalan entradas muy técnicas con otras muy genéricas, dependiendo del perfil que tengas, siéntete libre de saltarte unas u otras. 
@@ -38,4 +40,4 @@ Si quieres llevar un orden, aconsejamos que comiences por [aquí](/data/intro.md
 
 ## Otros
 
-[Aprender bitcoin desde la línea de comandos](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+- [Aprender bitcoin desde la línea de comandos](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) Un potente repositorio desde el que aprender a interactuar con bitcoin al nivel más bajo
